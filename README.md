@@ -1,5 +1,5 @@
 # exam-builder
-This is a desktop application for creating JSON files for use with exam-trainer.
+This is a desktop application for creating JSON files for use with [exam-trainer](https://github.com/rtaguchi/exam-trainer).
 
 ## Project setup
 ```
